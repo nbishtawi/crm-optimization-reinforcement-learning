@@ -4,8 +4,6 @@
 **CRM Optimization with Reinforcement Learning** is a project that applies reinforcement learning (RL) techniques to optimize customer relationship management (CRM) strategies.  
 The agent learns how to select actions (e.g., when to engage, follow up, or pause) that maximize long-term campaign performance, customer engagement, and retention.  
 
-This project was originally called *SalesReinforcer* and has been refactored for clarity, reproducibility, and professional presentation.  
-
 Note: The CRM datasets used in this project are **proprietary** and therefore not included in this repository.  
 
 ---
